@@ -1,26 +1,73 @@
- PROJECT NAME : MealMender - An AI powered platfrom to fix the problem of food wastage.
+# Welcome to your Lovable project
 
-SELECTED DOMAIN : Web Development.
+## Project info
 
-PROBLEM STATEMENT / USE CASE :
-      The problem statement that we choose to present is the "ZERO WASTE - An AI powered geo-intelligent food Donating and Rescue system." It is about the way that we can develop a web platform that hepls us to reduce the wastage of food by establishing a bridge between Donors and Recipients.
+**URL**: https://lovable.dev/projects/168717be-5d4f-47ea-990e-d0fa4c93a427
 
-ABSTRACT / PROBLEM DESCRIPTION : 
-      Food waste is a growing problem we see all around us—leftovers from restaurants, canteens, and even homes often end up in the trash. Meanwhile, many people struggle to get a single proper meal. This gap between excess and need is what inspired us to create MEALMENDER.
+## How can I edit this code?
 
-MEALMENDER is a web platform designed to connect food donors with people who need it. Donors—like restaurants, households, or canteens—can sign up, share what food they have, and add details like quantity, quality, and their location.
+There are several ways of editing your application.
 
-Recipients—such as NGOs, shelters, or individuals—can also register, view nearby donations, and request food based on what’s available and convenient for them. They can consider things like freshness, distance, and time of donation before making a choice. Once a request is accepted by the donor, the recipient gets a confirmation and can collect the food.
+**Use Lovable**
 
-An admin panel helps track overall impact, like food saved and people served.
+Simply visit the [Lovable Project](https://lovable.dev/projects/168717be-5d4f-47ea-990e-d0fa4c93a427) and start prompting.
 
-With MEALMENDER, our goal is simple: reduce food waste and make sure good food reaches those who need it most.
-    
-TECH STACKS USED : 
- * Front end: Html,JavaScript,CSS,TypeScript
- * Back end:Html, JavaScript, Java, Pyhton etc.
- * AI tools: Chatgpt, DeepSeek, vercel, hostinger etc.
- * Coding platfroms:VS code etc.
+Changes made via Lovable will be committed automatically to this repo.
 
-PROJECT EXPLANATION : 
-    The main reason for choosing this problem statement is that it looks like a problem that we can see in our day-to-day life. in developing this web platfrom, the main objective is to minimize the wastage of food. And it is done by using the web platform we created called MEALMENDER. It is a platform where a mutual bridge can be established between the food donors, who are willing to donate the food and the recipients who are willing to accept the donations made by donors. The donors can be of different categories like Restaurants, Households, Canteens, etc, and recipients can be any NGO organization, Shelters, Individuals too. Here both the donation and receiving process starts by creating an account as their respective fields in the website provided by a verified personnel. In case of a Donor, after creating an account using the essential credentials asked at the registration process, the donor can choose the type of cateogry they fall under from the options provided. After that the donor needs to upload the details of the food like quantity(in kilograms), food quality and an image showing the food that is to be donated. Then after entering the address or by giving the live lcoation of the donor, the donation will conme to an end. As of receivers end, the same login system will be followed as donor side, then the type of the recipient will be selected. Here too the requirement of the address or the live location of the recipient will be provided, to show the nearby donors for them to choose. Then the recipient can request the donor they are willing to have based on the factors like distance, freshness of the food and the time of the donation. Once the receiver places the needed request by providing all the information, the request will be sent to the donor. If the donor accepts the request, the recipient is ready to receive the food they requested along with a conformation receipt. There's an admin that keeps the data of the number of users, amount of food saved for that day, number of people served that day and verified organizations and volunteers data.
+**Use your preferred IDE**
+
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+
+The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+
+Follow these steps:
+
+```sh
+# Step 1: Clone the repository using the project's Git URL.
+git clone <YOUR_GIT_URL>
+
+# Step 2: Navigate to the project directory.
+cd <YOUR_PROJECT_NAME>
+
+# Step 3: Install the necessary dependencies.
+npm i
+
+# Step 4: Start the development server with auto-reloading and an instant preview.
+npm run dev
+```
+
+**Edit a file directly in GitHub**
+
+- Navigate to the desired file(s).
+- Click the "Edit" button (pencil icon) at the top right of the file view.
+- Make your changes and commit the changes.
+
+**Use GitHub Codespaces**
+
+- Navigate to the main page of your repository.
+- Click on the "Code" button (green button) near the top right.
+- Select the "Codespaces" tab.
+- Click on "New codespace" to launch a new Codespace environment.
+- Edit files directly within the Codespace and commit and push your changes once you're done.
+
+## What technologies are used for this project?
+
+This project is built with:
+
+- Vite
+- TypeScript
+- React
+- shadcn-ui
+- Tailwind CSS
+
+## How can I deploy this project?
+
+Simply open [Lovable](https://lovable.dev/projects/168717be-5d4f-47ea-990e-d0fa4c93a427) and click on Share -> Publish.
+
+## Can I connect a custom domain to my Lovable project?
+
+Yes it is!
+
+To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+
+Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
