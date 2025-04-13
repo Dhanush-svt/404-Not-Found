@@ -1,5 +1,7 @@
 PROJECT NAME : MealMender - An AI powered platfrom to fix the problem of food wastage.
 
+PROJECT URL : https://mealmender-rescue-ai.lovable.app/
+
 SELECTED DOMAIN : Web Development.
 
 PROBLEM STATEMENT / USE CASE :
