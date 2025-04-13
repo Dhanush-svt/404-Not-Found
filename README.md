@@ -2,7 +2,7 @@ PROJECT NAME : MealMender - An AI powered platfrom to fix the problem of food wa
 
 PROJECT URL : https://mealmender-rescue-ai.lovable.app/
 
-SELECTED DOMAIN : Web Development.
+SELECTED DOMAIN: Web Development.
 
 PROBLEM STATEMENT / USE CASE :
       The problem statement that we choose to present is the "ZERO WASTE - An AI powered geo-intelligent food Donating and Rescue system." It is about the way that we can develop a web platform that hepls us to reduce the wastage of food by establishing a bridge between Donors and Recipients.
